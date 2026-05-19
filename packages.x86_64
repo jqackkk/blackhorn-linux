@@ -126,3 +126,20 @@ xdg-utils
 xfsprogs
 xl2tpd
 zsh
+# --- BLACKHORN CUSTOM SOFTWARE ---
+    
+    # 1. The Graphical Desktop
+    plasma-meta
+    sddm
+    konsole
+    dolphin
+    
+    # 2. The Smart Filesystem Base
+    btrfs-progs
+    baloo
+    
+    # 3. Modern .exe Support
+    wine
+    wine-gecko
+    wine-mono
+    winetricks
